@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "bootstrap": "asini bootstrap",
+    "test": "asini exec -- npm test"
+  },
+  "devDependencies": {
+    "asini": "0.0.1"
+  }
+}
