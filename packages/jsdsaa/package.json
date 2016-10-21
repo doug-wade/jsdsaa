@@ -10,9 +10,13 @@
     "algorithms"
   ],
   "author": "Doug Wade <douglas.b.wade@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
-    "jest": "^15.1.1"
+    "jest": "^15.1.1",
+    "jsdsaa-Deque": "^0.0.1",
+    "jsdsaa-LinkedList": "^0.0.1",
+    "jsdsaa-Queue": "^0.0.1",
+    "jsdsaa-UnionFind": "^0.0.1"
   },
   "dependencies": {
     "jest": "15.1.1"

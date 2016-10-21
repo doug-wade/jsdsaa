@@ -5,13 +5,12 @@
   "scripts": {
     "test": "jest"
   },
-  "private": true,
   "keywords": [
     "data structures",
     "algorithms"
   ],
   "author": "Doug Wade <douglas.b.wade@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^15.1.1"
   },
