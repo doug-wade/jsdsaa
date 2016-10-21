@@ -1,15 +1,21 @@
 {
-  "name": "<%= packageName %>",
+  "name": "jsdsaa-UnionFind",
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "private": true,
-  "keywords": ["data structures", "algorithms"],
+  "keywords": [
+    "data structures",
+    "algorithms"
+  ],
   "author": "Doug Wade <douglas.b.wade@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "jest": "^15.1.1"
+  },
+  "dependencies": {
+    "jest": "15.1.1"
   }
 }
